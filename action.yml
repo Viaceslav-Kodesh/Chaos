@@ -1,0 +1,6 @@
+name: OpenStack Chaos Action
+description: Github Action that implements chaos testing your project in Openstack
+author: Viacheslav Kodesh
+runs:
+  using: docker
+  image: docker://kodeshviacheslav/chaos:latest
