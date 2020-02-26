@@ -4,4 +4,3 @@ author: Viacheslav Kodesh
 runs:
   using: docker
   image: docker://kodeshviacheslav/chaos:latest
-  #1
